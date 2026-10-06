@@ -79,3 +79,7 @@ Esta ecuación va a ir centrada
 $$
 x = 2^4*y + 1
 $$
+
+### Agregar imagenes
+![IMAGEN](IMAGEN.jpg)
+![GIF](GIF.gif)
